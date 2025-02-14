@@ -23,6 +23,7 @@ O projeto deve ser feito utilizando as boas práticas de prompt engineer.
 - [💪 Biotipos Corporais](#-biotipos-corporais)
 - [🏃Nível de atividade física atual](#-nivel-de-atividad-física-atual)
 - [📅 Dias Disponíveis para Treino](#-dias-disponíveis-para-treino)
+- [🎯 Objetivo a ser alcançado](#-objetivo-a-ser-alcançado)
 - [🏋️ Tipos de Exercícios](#️-tipos-de-exercícios)
 - [🛠️ Regras de negócio](#️-regras-de-negócio)
 - [📖 Material de Apoio](#-material-de-apoio)
