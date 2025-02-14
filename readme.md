@@ -72,6 +72,7 @@ A primeira regra para personalizar o treino é determinar o biotipo corporal do 
 > **Nota:** Escolha o biotipo que mais se aproxima do seu corpo atual para que o treino seja mais eficiente.
 
 ---
+
 ## 🏃Nível de Atividade Física Atual
 
 A segunda regra é determinal qual o nível de atividade física ataul:
@@ -114,10 +115,18 @@ A terceira regra é determinar quantos dias por semana o usuário tem disponíve
 - **ABCDE**: Divisão do treino em cinco dias, com foco ainda mais específico em cada grupo muscular.
 
 ---
+## 🎯 Objetivo a ser alcançado
+
+A quarta regra é declarar seu objetivo. O que deseja alcanzar con as atividades que podem ser propostas.
+
+- hipertrofia;
+- emagrecimento;
+- resistência muscular;
+- resistencia cardiovascular;
 
 ## 🏋️ Tipos de Exercícios
 
-A quarta regra envolve a escolha do tipo de exercício preferido. Aqui estão algumas categorias com exemplos:
+A quinta regra envolve a escolha do tipo de exercício preferido. Aqui estão algumas categorias com exemplos:
 
 | **Imagem**                                                       | **Tipo de Treino** | **Descrição**                                                                                                 |
 | ---------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------- |
@@ -134,8 +143,9 @@ A quarta regra envolve a escolha do tipo de exercício preferido. Aqui estão al
 1. **Identifique seu biotipo corporal** consultando a seção de biotipos.
 2. **Declare o seu níevel de atividade física atual.
 3. **Determine quantos dias por semana você pode treinar** e escolha o tipo de treino mais adequado.
-4. **Selecione o tipo de exercício** que prefere realizar e que se encaixa melhor nos seus objetivos.
-5. Use o prompt do assistente para gerar um plano de treino personalizado.
+4. **Defina qual o objetivo do treino.
+5. **Selecione o tipo de exercício** que prefere realizar e que se encaixa melhor nos seus objetivos.
+6. Use o prompt do assistente para gerar um plano de treino personalizado.
 
 ---
 
@@ -149,3 +159,5 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 ---
 
 ## 🎯 Prompt de Resposta Proposto
+
+
