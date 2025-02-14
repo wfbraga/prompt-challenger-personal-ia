@@ -21,6 +21,7 @@ O projeto deve ser feito utilizando as boas práticas de prompt engineer.
 - [📋 Índice](#-índice)
 - [📝 Introdução](#-introdução)
 - [💪 Biotipos Corporais](#-biotipos-corporais)
+- [🏃Nível de atividade física atual](#-nivel-de-atividad-física-atual)
 - [📅 Dias Disponíveis para Treino](#-dias-disponíveis-para-treino)
 - [🏋️ Tipos de Exercícios](#️-tipos-de-exercícios)
 - [🛠️ Regras de negócio](#️-regras-de-negócio)
@@ -71,10 +72,36 @@ A primeira regra para personalizar o treino é determinar o biotipo corporal do 
 > **Nota:** Escolha o biotipo que mais se aproxima do seu corpo atual para que o treino seja mais eficiente.
 
 ---
+## 🏃Nível de Atividade Física Atual
+
+A segunda regra é determinal qual o nível de atividade física ataul:
+- Sedentario;
+- Leve;
+- Intermediario;
+- Avançado.
+
+### Sedentácio
+Pouca ou nenhuma atividade física diária seja por impossibilidade física, laboral ou escolha própria.
+
+### Nível leve
+Atividades que exigem pouco esforço físico, como caminhar em ritmo lento, alongamento, tarefas domésticas leves, etc.
+A respiração e os batimentos cardíacos ficam levemente acelerados.
+A pessoa consegue conversar confortavelmente durante a atividade.
+
+### Nível moderado
+Atividades que exigem um esforço físico maior, como caminhar em ritmo mais rápido, dançar, nadar, andar de bicicleta em ritmo moderado, etc.
+A respiração e os batimentos cardíacos ficam mais acelerados.
+A pessoa ainda consegue conversar, mas com alguma dificuldade.
+
+### Nível intenso
+Atividades que exigem um esforço físico intenso, como corrida, musculação, esportes coletivos (futebol, basquete, vôlei), natação em ritmo intenso, etc.
+A respiração e os batimentos cardíacos ficam muito acelerados.
+A pessoa tem dificuldade em conversar durante a atividade.
+---
 
 ## 📅 Dias Disponíveis para Treino
 
-A segunda regra é determinar quantos dias por semana o usuário tem disponível para treinar. Dependendo do número de dias, o treino sugerido pode variar:
+A terceira regra é determinar quantos dias por semana o usuário tem disponível para treinar. Dependendo do número de dias, o treino sugerido pode variar:
 
 | **Imagem**                                                     | **Dias por Semana** | **Tipo de Treino Sugerido** |
 | -------------------------------------------------------------- | ------------------- | --------------------------- |
@@ -90,7 +117,7 @@ A segunda regra é determinar quantos dias por semana o usuário tem disponível
 
 ## 🏋️ Tipos de Exercícios
 
-A terceira regra envolve a escolha do tipo de exercício preferido. Aqui estão algumas categorias com exemplos:
+A quarta regra envolve a escolha do tipo de exercício preferido. Aqui estão algumas categorias com exemplos:
 
 | **Imagem**                                                       | **Tipo de Treino** | **Descrição**                                                                                                 |
 | ---------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------- |
@@ -105,9 +132,10 @@ A terceira regra envolve a escolha do tipo de exercício preferido. Aqui estão 
 ## 🛠️ Regras de negócio
 
 1. **Identifique seu biotipo corporal** consultando a seção de biotipos.
-2. **Determine quantos dias por semana você pode treinar** e escolha o tipo de treino mais adequado.
-3. **Selecione o tipo de exercício** que prefere realizar e que se encaixa melhor nos seus objetivos.
-4. Use o prompt do assistente para gerar um plano de treino personalizado.
+2. **Declare o seu níevel de atividade física atual.
+3. **Determine quantos dias por semana você pode treinar** e escolha o tipo de treino mais adequado.
+4. **Selecione o tipo de exercício** que prefere realizar e que se encaixa melhor nos seus objetivos.
+5. Use o prompt do assistente para gerar um plano de treino personalizado.
 
 ---
 
