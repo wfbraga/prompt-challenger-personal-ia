@@ -86,19 +86,23 @@ A segunda regra é determinal qual o nível de atividade física ataul:
 Pouca ou nenhuma atividade física diária seja por impossibilidade física, laboral ou escolha própria.
 
 ### Nível leve
+
 Atividades que exigem pouco esforço físico, como caminhar em ritmo lento, alongamento, tarefas domésticas leves, etc.
 A respiração e os batimentos cardíacos ficam levemente acelerados.
 A pessoa consegue conversar confortavelmente durante a atividade.
 
 ### Nível moderado
+
 Atividades que exigem um esforço físico maior, como caminhar em ritmo mais rápido, dançar, nadar, andar de bicicleta em ritmo moderado, etc.
 A respiração e os batimentos cardíacos ficam mais acelerados.
 A pessoa ainda consegue conversar, mas com alguma dificuldade.
 
 ### Nível intenso
+
 Atividades que exigem um esforço físico intenso, como corrida, musculação, esportes coletivos (futebol, basquete, vôlei), natação em ritmo intenso, etc.
 A respiração e os batimentos cardíacos ficam muito acelerados.
 A pessoa tem dificuldade em conversar durante a atividade.
+
 ---
 
 ## 📅 Dias Disponíveis para Treino
@@ -116,6 +120,7 @@ A terceira regra é determinar quantos dias por semana o usuário tem disponíve
 - **ABCDE**: Divisão do treino em cinco dias, com foco ainda mais específico em cada grupo muscular.
 
 ---
+
 ## 🎯 Objetivo a ser alcançado
 
 A quarta regra é declarar seu objetivo. O que deseja alcanzar con as atividades que podem ser propostas.
